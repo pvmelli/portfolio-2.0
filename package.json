@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-2.0",
+  "version": "1.0.0",
+  "description": "Portfolio 2.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvmelli/portfolio-2.0.git"
+  },
+  "author": "paula melli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvmelli/portfolio-2.0/issues"
+  },
+  "homepage": "https://github.com/pvmelli/portfolio-2.0#readme",
+  "dependencies": {
+    "sass": "^1.66.1"
+  }
+}
